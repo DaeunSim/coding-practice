@@ -1,2 +1,3 @@
-# Algorithm
-Algorithm using C++
+# Coding Practice
+* Baekjoon
+* HackerRank
