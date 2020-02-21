@@ -2,8 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-class Person 
-{
+class Person {
     public int age;
     public Person(int initialAge) 
     {
@@ -42,8 +41,7 @@ class Person
         age++;
      }
      
-     static void Main(String[] args) 
-     {
+     static void Main(String[] args) {
         int T=int.Parse(Console.In.ReadLine());
 
         for (int i = 0; i < T; i++) 
