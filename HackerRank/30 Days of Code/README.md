@@ -3,7 +3,7 @@
 |Domain|Day|Challenge|Difficulty|Solution|
 |:----:|:-:|:-------:|:--------:|:------:|
 |Tutorial|0|Hello, World|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2000%20Hello%2C%20World/Solution.cs)|
-|Tutorial|1|Data Types|Easy|Solution.cs|
+|Tutorial|1|Data Types|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2001%20Data%20Types/Solution.cs)|
 |Tutorial|2|Operators|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2002%20Operators/Solution.cs)|
 |Tutorial|3|Intro to Conditional Statements|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2003%20Conditional%20Statements/Solution.cs)|
 |Tutorial|4|Class vs. Instance|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2004%20Class%20vs.%20Instance/Solution.cs)|
