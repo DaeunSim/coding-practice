@@ -8,7 +8,7 @@
 |Tutorial|3|Intro to Conditional Statements|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2003%20Conditional%20Statements/Solution.cs)|
 |Tutorial|4|Class vs. Instance|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2004%20Class%20vs.%20Instance/Solution.cs)|
 |Tutorial|5|Loops|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2005%20Loops/Solution.cs)|
-|Tutorial|6|Let's Review|Easy|Solution.cs|
+|Tutorial|6|Let's Review|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2006%20Let's%20Review/Solution.cs)|
 |Tutorial|7|Arrays|Easy|Solution.cs|
 |Tutorial|8|Dictionaries and Maps|Easy|Solution.cs|
 |Tutorial|9|Recursion 3|Easy|Solution.cs|
