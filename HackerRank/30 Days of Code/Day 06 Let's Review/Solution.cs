@@ -23,6 +23,7 @@ class Solution {
         if (len < 2 || len > 10000)
             return;
         
+        // Solution 1
         for (int i = 0; i < len; i++)
         {
             if (i % 2 == 0)
@@ -30,6 +31,20 @@ class Solution {
             else
                 odd += s.Substring(i, 1);
         }
+        
+        
+        // Solution 2
+        /* 
+        for(int i = 0; i < len; i++)
+        {
+            even += s.Substring(i++, 1);
+
+            if (i >= len)
+                break;
+
+            odd += s.Substring(i, 1);
+        }
+        */
 
         Console.WriteLine("{0} {1}", even, odd);
     }
