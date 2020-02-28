@@ -11,7 +11,7 @@
 |Tutorial|6|Let's Review|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2006%20Let's%20Review/Solution.cs)|
 |Tutorial|7|Arrays|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2007%20Arrays/Solution.cs)|
 |Tutorial|8|Dictionaries and Maps|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2008%20Dictionaries%20and%20Maps/Solution.cs)|
-|Tutorial|9|Recursion 3|Easy|Solution.cs|
+|Tutorial|9|Recursion 3|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2009%20Recursion%203/Solution.cs)|
 |Tutorial|10|Binary Numbers|Easy|Solution.cs|
 |Tutorial|11|2D Arrays|Easy|Solution.cs|
 |Tutorial|12|Inheritance|Easy|Solution.cs|
