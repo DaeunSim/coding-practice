@@ -1,3 +1,2 @@
 # Coding Practice
-* Baekjoon
 * HackerRank
