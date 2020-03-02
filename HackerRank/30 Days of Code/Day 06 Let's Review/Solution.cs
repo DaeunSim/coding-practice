@@ -27,9 +27,13 @@ class Solution {
         for (int i = 0; i < len; i++)
         {
             if (i % 2 == 0)
+            {
                 even += s.Substring(i, 1);
+            }
             else
+            {
                 odd += s.Substring(i, 1);
+            }
         }
         
         
