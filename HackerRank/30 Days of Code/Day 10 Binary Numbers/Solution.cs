@@ -13,7 +13,7 @@ using System.Text;
 using System;
 
 class Solution {
-
+    
     static void Main(string[] args) {
         int quotient = 1;
         int remainder = 0;
@@ -29,9 +29,13 @@ class Solution {
         num = n;
 
         if (num % 2 == 0)
+        {
             cnt = 1;
+        }
         else
+        {
             cnt = 0;
+        }  
 
         while (num != 0)
         {
