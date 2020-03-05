@@ -53,7 +53,6 @@ class Student : Person{
     *   Return: A character denoting the grade.
     */
     // Write your method here
-
     public char Calculate()
     {
         char grade = 'T';
