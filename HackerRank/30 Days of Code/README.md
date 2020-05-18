@@ -16,7 +16,7 @@
 |Tutorial|11|2D Arrays|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.cs)|
 |Tutorial|12|Inheritance|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.cs)|
 |Tutorial|13|Abstract Classes|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.cs)|
-|Tutorial|14|Scope|Easy|Solution.cs|
+|Tutorial|14|Scope|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2014%20Scope/Solution.cs)|
 |Tutorial|15|Linked List|Easy|Solution.cs|
 |Tutorial|16|Exceptions - String to Integer|Easy|Solution.cs|
 |Tutorial|17|More Exceptions|Easy|Solution.cs|
