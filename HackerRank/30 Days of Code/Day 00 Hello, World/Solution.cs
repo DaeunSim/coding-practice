@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-class Solution {
-    static void Main(String[] args) {
+class Solution 
+{
+    static void Main(String[] args) 
+    {
         // Declare a variable named 'inputString' to hold our input.
         String inputString; 
         
