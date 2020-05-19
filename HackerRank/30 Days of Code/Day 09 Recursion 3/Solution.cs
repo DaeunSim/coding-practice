@@ -12,8 +12,8 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-class Solution {
-
+class Solution 
+{
     // Complete the factorial function below.
     static int factorial(int n) 
     {
@@ -23,7 +23,8 @@ class Solution {
         return n * factorial(n-1);
     }
 
-    static void Main(string[] args) {
+    static void Main(string[] args) 
+    {
         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         int n = Convert.ToInt32(Console.ReadLine());
