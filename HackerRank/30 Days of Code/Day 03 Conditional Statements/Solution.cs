@@ -12,9 +12,10 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-class Solution {
-
-    static void Main(string[] args) {
+class Solution 
+{
+    static void Main(string[] args) 
+    {
         int N = Convert.ToInt32(Console.ReadLine());
 
         if (N < 1 || N > 100)
