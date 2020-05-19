@@ -2,24 +2,28 @@ using System;
 using System.Linq;
 
 // Unmodifiable code
-class Person{
+class Person
+{
     protected string firstName;
     protected string lastName;
     protected int id;
 
     public Person(){}
-    public Person(string firstName, string lastName, int identification){
+    public Person(string firstName, string lastName, int identification)
+    {
         this.firstName = firstName;
         this.lastName = lastName;
         this.id = identification;
     }
     
-    public void printPerson(){
-      Console.WriteLine("Name: " + lastName + ", " + firstName + "\nID: " + id); 
+    public void printPerson()
+    {
+        Console.WriteLine("Name: " + lastName + ", " + firstName + "\nID: " + id); 
     }
 }
 
-class Student : Person{
+class Student : Person
+{
     private int[] testScores;
     private int len;
   
@@ -97,8 +101,10 @@ class Student : Person{
 }
 
 // Unmodifiable code
-class Solution {
-    static void Main() {
+class Solution 
+{
+    static void Main() 
+    {
         string[] inputs = Console.ReadLine().Split();
         string firstName = inputs[0];
         string lastName = inputs[1];
@@ -110,7 +116,8 @@ class Solution {
         inputs = Console.ReadLine().Split();
         int[] scores = new int[numScores];
         
-        for(int i = 0; i < numScores; i++){
+        for(int i = 0; i < numScores; i++)
+        {
           scores[i]= Convert.ToInt32(inputs[i]);
         } 
 
