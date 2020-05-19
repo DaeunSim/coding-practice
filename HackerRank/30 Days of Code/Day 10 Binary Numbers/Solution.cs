@@ -12,9 +12,10 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-class Solution {
-    
-    static void Main(string[] args) {
+class Solution 
+{
+    static void Main(string[] args) 
+    {
         int quotient = 1;
         int remainder = 0;
         int num = 0;
