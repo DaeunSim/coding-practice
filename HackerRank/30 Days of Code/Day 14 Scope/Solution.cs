@@ -1,7 +1,8 @@
 using System;
 using System.Linq;
 
-class Difference {
+class Difference 
+{
     private int[] elements;
     public int maximumDifference;
     public int count;
@@ -14,6 +15,7 @@ class Difference {
 	// Add your code here
     public void computeDifference()
     {
+	// Solution 1
         //int result = 0;
 
         //count = elements.Length;
@@ -36,14 +38,16 @@ class Difference {
         //        }
         //    }
         //}
-	    
+	
+	// Solution 2
 	maximumDifference = elements.Max() - elements.Min();
     }
-
 } // End of Difference Class
 
-class Solution {
-    static void Main(string[] args) {
+class Solution 
+{
+    static void Main(string[] args) 
+    {
         Convert.ToInt32(Console.ReadLine());
         
         int[] a = Console.ReadLine().Split(' ').Select(x=>Convert.ToInt32(x)).ToArray();
