@@ -12,9 +12,10 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-class Solution {
-
-    static void Main(string[] args) {
+class Solution 
+{
+    static void Main(string[] args) 
+    {
         int[][] arr = new int[6][];
         int max = -64;
         int sum = 0;
