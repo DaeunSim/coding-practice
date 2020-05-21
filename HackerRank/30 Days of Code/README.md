@@ -18,7 +18,7 @@
 |Tutorial|13|Abstract Classes|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.cs)|
 |Tutorial|14|Scope|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2014%20Scope/Solution.cs)|
 |Tutorial|15|Linked List|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.cs)|
-|Tutorial|16|Exceptions - String to Integer|Easy|Solution.cs|
+|Tutorial|16|Exceptions - String to Integer|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2016%20Exceptions/Solution.cs)|
 |Tutorial|17|More Exceptions|Easy|Solution.cs|
 |Tutorial|18|Queues and Stacks|Easy|Solution.cs|
 |Tutorial|19|Interfaces|Easy|Solution.cs|
