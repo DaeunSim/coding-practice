@@ -15,7 +15,7 @@ class Solution
 {
   // Not solved.
   // Refer to discussions page
-	static int getHeight(Node root)
+  static int getHeight(Node root)
   {
       //Write your code here
         int height = 0;
@@ -38,8 +38,8 @@ class Solution
         return height;
     }
 
-	static Node insert(Node root, int data)
-  {
+    static Node insert(Node root, int data)
+    {
         if(root==null)
         {
             return new Node(data);
