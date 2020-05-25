@@ -1,7 +1,17 @@
+## Label ##
+|Abbreviation|Meaning|
+|:----------:|:-----:|
+|TL|Time Limit|
+|WA|Wrong Answer|
+|RE|Runtime Error|
+|NS|Not Solved|
+
+<br/>
+
 ## 30 Days of Code ##
 
-|Domain|Day|Challenge|Difficulty|Solution|
-|:----:|:-:|:-------:|:--------:|:------:|
+|Domain|Day|Challenge|Difficulty|Solution|Label|
+|:----:|:-:|:-------:|:--------:|:------:|:---:|
 |Tutorial|0|Hello, World|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2000%20Hello%2C%20World/Solution.cs)|
 |Tutorial|1|Data Types|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2001%20Data%20Types/Solution.cs)|
 |Tutorial|2|Operators|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2002%20Operators/Solution.cs)|
@@ -17,14 +27,14 @@
 |Tutorial|12|Inheritance|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.cs)|
 |Tutorial|13|Abstract Classes|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.cs)|
 |Tutorial|14|Scope|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2014%20Scope/Solution.cs)|
-|Tutorial|15|Linked List|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.cs)|
+|Tutorial|15|Linked List|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.cs)|NS|
 |Tutorial|16|Exceptions - String to Integer|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2016%20Exceptions/Solution.cs)|
 |Tutorial|17|More Exceptions|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.cs)|
 |Tutorial|18|Queues and Stacks|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2018%20Queues%20and%20Stacks/Solution.cs)|
 |Tutorial|19|Interfaces|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2019%20Interfaces/Solution.cs)|
 |Tutorial|20|Sorting|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2020%20Sorting/Solution.cs)|
 |Tutorial|21|Generics|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2021%20Generics/Solution.cs)|
-|Tutorial|22|Binary Search Trees|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Trees/Solution.cs)|
+|Tutorial|22|Binary Search Trees|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Trees/Solution.cs)|NS|
 |Tutorial|23|BST Level-Order Traversal|Easy|Solution.cs|
 |Tutorial|24|More Linked Lists|Easy|Solution.cs|
 |Tutorial|25|Running Time and Complexity|Easy|Solution.cs|
