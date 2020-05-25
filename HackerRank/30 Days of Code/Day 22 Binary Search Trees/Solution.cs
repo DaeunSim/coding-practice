@@ -13,7 +13,6 @@ class Node
 
 class Solution
 {
-  // Not solved.
   // Refer to discussions page
   static int getHeight(Node root)
   {
