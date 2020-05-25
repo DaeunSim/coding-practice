@@ -16,7 +16,8 @@ class Solution
 {
     public static  Node insert(Node head,int data)
     {
-        //Complete this method
+	// Refer to discussions page
+        // Complete this method
         if (head == null)
         {
             return new Node(data);   
