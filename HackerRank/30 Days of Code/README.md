@@ -21,7 +21,7 @@
 |Tutorial|16|Exceptions - String to Integer|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2016%20Exceptions/Solution.cs)|
 |Tutorial|17|More Exceptions|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.cs)|
 |Tutorial|18|Queues and Stacks|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2018:%20Queues%20and%20Stacks/Solution.cs)|
-|Tutorial|19|Interfaces|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2020:%20Interfaces/Solution.cs)|
+|Tutorial|19|Interfaces|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2019%20Interfaces/Solution.cs)|
 |Tutorial|20|Sorting|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2020%20Sorting/Solution.cs)|
 |Tutorial|21|Generics|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2021%20Generics/Solution.cs)|
 |Tutorial|22|Binary Search Trees|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Trees/Solution.cs)|
