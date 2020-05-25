@@ -35,7 +35,7 @@
 |Tutorial|20|Sorting|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2020%20Sorting/Solution.cs)|
 |Tutorial|21|Generics|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2021%20Generics/Solution.cs)|
 |Tutorial|22|Binary Search Trees|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Trees/Solution.cs)|NS|
-|Tutorial|23|BST Level-Order Traversal|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2023%20BST%20Level-Order%20Traversal/Solution.cs)|
+|Tutorial|23|BST Level-Order Traversal|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2023%20BST%20Level-Order%20Traversal/Solution.cs)|NS|
 |Tutorial|24|More Linked Lists|Easy|Solution.cs|
 |Tutorial|25|Running Time and Complexity|Easy|Solution.cs|
 |Tutorial|26|Nested Logic|Easy|Solution.cs|
