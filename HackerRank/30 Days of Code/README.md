@@ -27,18 +27,18 @@
 |Tutorial|12|Inheritance|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.cs)|
 |Tutorial|13|Abstract Classes|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.cs)|
 |Tutorial|14|Scope|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2014%20Scope/Solution.cs)|
-|Tutorial|15|Linked List|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.cs)|NS|
+|Tutorial|15|Linked List|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.cs)|WA|
 |Tutorial|16|Exceptions - String to Integer|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2016%20Exceptions/Solution.cs)|
 |Tutorial|17|More Exceptions|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.cs)|
 |Tutorial|18|Queues and Stacks|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2018%20Queues%20and%20Stacks/Solution.cs)|
 |Tutorial|19|Interfaces|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2019%20Interfaces/Solution.cs)|
 |Tutorial|20|Sorting|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2020%20Sorting/Solution.cs)|
 |Tutorial|21|Generics|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2021%20Generics/Solution.cs)|
-|Tutorial|22|Binary Search Trees|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Trees/Solution.cs)|NS|
-|Tutorial|23|BST Level-Order Traversal|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2023%20BST%20Level-Order%20Traversal/Solution.cs)|NS|
-|Tutorial|24|More Linked Lists|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2024%20More%20Linked%20Lists/Solution.cs)|NS|
+|Tutorial|22|Binary Search Trees|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Trees/Solution.cs)|WA|
+|Tutorial|23|BST Level-Order Traversal|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2023%20BST%20Level-Order%20Traversal/Solution.cs)|WA|
+|Tutorial|24|More Linked Lists|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2024%20More%20Linked%20Lists/Solution.cs)|WA|
 |Tutorial|25|Running Time and Complexity|Medium|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2025%20Running%20Time%20and%20Complexity/Solution.cs)|
 |Tutorial|26|Nested Logic|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.cs)|
-|Tutorial|27|Testing|Easy|Solution.cs|
+|Tutorial|27|Testing|Easy|Solution.cs|NS|
 |Tutorial|28|RegEx, Patterns, and Intro to Databases|Easy|Solution.cs|
 |Tutorial|29|Bitwise AND|Easy|Solution.cs|
