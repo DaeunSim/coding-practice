@@ -38,7 +38,7 @@
 |Tutorial|23|BST Level-Order Traversal|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2023%20BST%20Level-Order%20Traversal/Solution.cs)|NS|
 |Tutorial|24|More Linked Lists|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2024%20More%20Linked%20Lists/Solution.cs)|NS|
 |Tutorial|25|Running Time and Complexity|Medium|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2025%20Running%20Time%20and%20Complexity/Solution.cs)|
-|Tutorial|26|Nested Logic|Easy|Solution.cs|
+|Tutorial|26|Nested Logic|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.cs)|
 |Tutorial|27|Testing|Easy|Solution.cs|
 |Tutorial|28|RegEx, Patterns, and Intro to Databases|Easy|Solution.cs|
 |Tutorial|29|Bitwise AND|Easy|Solution.cs|
