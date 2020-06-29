@@ -39,6 +39,6 @@
 |Tutorial|24|More Linked Lists|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2024%20More%20Linked%20Lists/Solution.cs)|WA|
 |Tutorial|25|Running Time and Complexity|Medium|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2025%20Running%20Time%20and%20Complexity/Solution.cs)|
 |Tutorial|26|Nested Logic|Easy|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.cs)|
-|Tutorial|27|Testing|Easy|Solution.cs|NS|
+|Tutorial|27|Testing|Easy|Solution.cs||
 |Tutorial|28|RegEx, Patterns, and Intro to Databases|Medium|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.cs)|
 |Tutorial|29|Bitwise AND|Medium|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code/Day%2029%20Bitwise%20AND/Solution.cs)|
