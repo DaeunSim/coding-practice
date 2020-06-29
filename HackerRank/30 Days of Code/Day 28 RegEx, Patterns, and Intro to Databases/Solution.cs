@@ -12,16 +12,18 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-class Solution {
-
-    static void Main(string[] args) {
+class Solution 
+{
+    static void Main(string[] args) 
+    {
         var lowerReg = new Regex(@"[a-z]");
         var addrReg = @"gmail.com";
         List<string> nameList = new List<string>();
         
         int N = Convert.ToInt32(Console.ReadLine());
 
-        for (int NItr = 0; NItr < N; NItr++) {
+        for (int NItr = 0; NItr < N; NItr++) 
+        {
             string[] firstNameEmailID = Console.ReadLine().Split(' ');
             string firstName = firstNameEmailID[0];
             string emailID = firstNameEmailID[1];
