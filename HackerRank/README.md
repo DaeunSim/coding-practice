@@ -2,5 +2,4 @@
 </br>
 
 - 30 Days of Code (written C#)
-- 10 Days of Statistics
-- Interview Preparation Kit (written C++)
+- 30 Days of Code (written C++)
