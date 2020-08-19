@@ -12,4 +12,4 @@
 
 |No.|Algorithm|Challenge|Solution|Label|
 |:-:|:----:|:-------:|:------:|:---:|
-|1|Arrays|Left Rotation|Solution.cs||
+|1|Arrays|Left Rotation|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/Interview%20Preparation%20Kit/Left%20Rotation/Solution.cs)||
