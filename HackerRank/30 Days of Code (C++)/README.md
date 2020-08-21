@@ -14,7 +14,7 @@
 |:----:|:-:|:-------:|:--------:|:------:|:---:|
 |Tutorial|0|Hello, World|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2000%20Hello%2C%20World/Solution.cpp)|
 |Tutorial|1|Data Types|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2001%20Data%20Types/Solution.cpp)|
-|Tutorial|2|Operators|Easy|Solution.cpp|
+|Tutorial|2|Operators|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2002%20Operators/Solution.cpp)|
 |Tutorial|3|Intro to Conditional Statements|Easy|Solution.cpp|
 |Tutorial|4|Class vs. Instance|Easy|Solution.cpp|
 |Tutorial|5|Loops|Easy|Solution.cpp|
