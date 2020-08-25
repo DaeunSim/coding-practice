@@ -18,7 +18,7 @@
 |Tutorial|3|Intro to Conditional Statements|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2003%20Intro%20to%20Conditional%20Statements/Solution.cpp)|
 |Tutorial|4|Class vs. Instance|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2004%20Class%20vs.%20Instance/Solution.cpp)|
 |Tutorial|5|Loops|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2005%20Loop/Solution.cpp)|
-|Tutorial|6|Let's Review|Easy|Solution.cpp|
+|Tutorial|6|Let's Review|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2006%20Let's%20Review/Solution.cpp)|
 |Tutorial|7|Arrays|Easy|Solution.cpp|
 |Tutorial|8|Dictionaries and Maps|Easy|Solution.cpp|
 |Tutorial|9|Recursion 3|Easy|Solution.cpp|
