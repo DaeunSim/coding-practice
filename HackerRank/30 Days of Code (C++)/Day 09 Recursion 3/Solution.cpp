@@ -1,3 +1,9 @@
+/*
+  Author: https://www.hackerrank.com/profile/AvmnuSng
+  Difficulty: Easy
+  Submitted By: https://www.hackerrank.com/challenges/30-recursion/leaderboard
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
