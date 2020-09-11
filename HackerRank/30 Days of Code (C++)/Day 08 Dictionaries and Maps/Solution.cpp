@@ -1,3 +1,9 @@
+/*
+  Author: https://www.hackerrank.com/profile/Shafaet
+  Difficulty: Easy
+  Submitted By: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/leaderboard
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
