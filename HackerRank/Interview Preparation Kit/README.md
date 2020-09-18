@@ -18,4 +18,5 @@
 |4|Arrays|2D Array - DS|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/Interview%20Preparation%20Kit/2D%20Array/Solution.cs)||
 |5|String|Alternating Characters|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/Interview%20Preparation%20Kit/Alternating%20Characters/Solution.cs)||
 |6|String|Special String Again|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/Interview%20Preparation%20Kit/Special%20String%20Again/Solution.cs)|NS|
+|7|String|Sherlock and the Valid String|[Solution.cs](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/Interview%20Preparation%20Kit/Sherlock%20and%20the%20Valid%20String/Solution.cs)|
 
