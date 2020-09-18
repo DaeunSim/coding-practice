@@ -39,6 +39,6 @@
 |Tutorial|24|More Linked Lists|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2024%20More%20Linked%20Lists/Solution.cpp)|
 |Tutorial|25|Running Time and Complexity|Medium|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2025%20Running%20Time%20and%20Complexity/Solution.cpp)|
 |Tutorial|26|Nested Logic|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2026%20Nested%20Logic/Solution.cpp)|
-|Tutorial|27|Testing|Easy|Solution.cpp|NS|
+|Tutorial|27|Testing|Easy|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2027%20Testing/Solution.cpp)|
 |Tutorial|28|RegEx, Patterns, and Intro to Databases|Medium|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.cpp)|
 |Tutorial|29|Bitwise AND|Medium|[Solution.cpp](https://github.com/DaeunSim/coding-practice/blob/master/HackerRank/30%20Days%20of%20Code%20(C%2B%2B)/Day%2029%20Bitwise%20AND/Solution.cpp)|
